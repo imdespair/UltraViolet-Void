@@ -1,12 +1,16 @@
 {
     "name": "Ultra-Violet Void",
-    "description": "💜",
+    "description": "A super dark version of @dor4a's purple theme 💜",
     "version": "60.420",
     "authors": [
-      {
-        "name": "imdespair",
-        "id": "1006638529746583752"
-      }
+        {
+            "name": "imdespair",
+            "id": "1006638529746583752"
+        },
+{
+            "name": "dor4a",
+            "id": "455513497288310785"
+        }
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [ "#000000" ],
