@@ -35,7 +35,7 @@
         "CHANNELS_DEFAULT": [ "#7700FF" ],
         "CHANNELTEXTAREA_BACKGROUND": [ "#00ff00" ],
         "CHAT_BACKGROUND": [ "#000000" ],
-        "EMBED_BACKGROUND": [ "#ffffff" ],
+        "EMBED_BACKGROUND": [ "#090909" ],
 		"FORUM_POST_TAG_BACKGROUND": [ "#1E1B27" ],
         "HEADER_PRIMARY": [ "#7700FF" ],
         "HEADER_SECONDARY": [ "#7700FF" ],
